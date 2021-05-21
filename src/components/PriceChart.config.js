@@ -1,7 +1,7 @@
 export const chartOptions = {
   chart: {
     animations: { enabled: false },
-    toolbar: { show: false },
+    toolbar: { show: true },
     width: '100px'
   },
   tooltip: {
